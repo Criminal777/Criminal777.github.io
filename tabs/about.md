@@ -18,8 +18,12 @@ Here are some of my online profiles:
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">WORK EXPERIENCE:</p></b></body></html>
 
-<ul><li><b>Soon</b></li> <br>
-Soon (Jul,2021)(Part Time) </ul>
+<ul><li><b>Mariott Assila hotel
+Company NameMariott Hotel Full-time
+Dates EmployedMay 2017 – Present
+Employment Duration4 yrs 9 mos
+LocationJeddah, Makkah, Saudi Arabia</b></li> <br>
+Full-time (Jul,2021)(Part Time) </ul>
 <ul><li><b>SSoon</b></li> <br>
 Penetration Tester since (Sep,2017) (Part Time)<br></ul>
  
