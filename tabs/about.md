@@ -15,11 +15,9 @@ Here are some of my online profiles:
 | Platform                                                  | Profile                                                                       |
 |:----------------------------------------------------------|------------------------------------------------------------------------------:|
 | [Hack The Box](https://www.hackthebox.eu/profile/31944)   | <script src="https://www.hackthebox.eu/badge/31944"></script>                 |
-| [Try Hack Me](https://tryhackme.com/p/Crimi777)           | <script src="https://tryhackme.com/badge/596135"></script>
-| [Root-me](https://www.root-me.org/crimi777)               | <script src="https://am<script src="https://tryhackme.com/badge/596135"></script>
+| [Try Hack Me](https://tryhackme.com/p/Crimi777)           | <script src="https://tryhackme.com/badge/596135"></script> 
+| [Root-me](https://**********************.com              | "https://google.com
 
-666
-irr0r.github.io/assets/js/rootme-badge.js"></script>   |
 
 ## What will you find on this blog?
 
