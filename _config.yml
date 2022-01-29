@@ -28,10 +28,10 @@ linkedin:
   username: Ali-ALYAMANI
 
 twitter:
-  username: amirr0r_            # change to your twitter username
+  username: crimi777            # change to your twitter username
 
 social:
-  name: Crimi	                  	# it will shows as the copyright owner in Footer
+  name: Ali	                  	# it will shows as the copyright owner in Footer
   email: # exploit778@hotmail.com              # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -51,7 +51,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Paris
+timezone: Asia/Kuwait
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
