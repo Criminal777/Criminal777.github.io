@@ -110,26 +110,26 @@ Now that I have the certification I think that I was quite able to pass it sever
 ## ⌛ Exam Timeline
 
 <aside style="color:white; display: flex; width: 100%; border-radius: 3px; background: rgb(35, 38, 60) none repeat scroll 0% 0%; padding: 16px 16px 16px 12px;">
-ℹ️ While I was doing the exam, I was taking notes for the report and I took several breaks. I recommend you to do the same if you're planning to pass the exam.
+ℹ️ While u doing the exam, take notes for the report and took several breaks. I recommend you to do the same if you're planning to pass the exam.
 </aside>
 
-➡️ **14h - 14h56**: My exam started approximately at 2 PM (got some issues with proctor software). I finished the Buffer overflow machine within an hour while running enumeration scripts in the background for each target.
+➡️ **14h - 14h56**:  exam started approximately at 2 PM (got some issues with proctor software). I finished the Buffer overflow machine within an hour while running enumeration scripts in the background for each target.
 
-➡️ **15h - 15h48**: I took a small break then I decided to attack the 10 pointer machine. "Luckily", I identified the exploitation path very quickly. After completing it, I took another break.
+➡️ **15h - 15h48**:  took a small break then  decided to attack the 10 pointer machine. "Luckily", I identified the exploitation path very quickly. After completing it, I took another break.
 
-➡️ ~**16h10 - 18h45**: I looked at the output of my enumeration script to find some low hanging fruits. Decided to go through two machines simultaneously. After almost 2 hours, I got a low privileged shell on a 20 pointer machine then I went to another break.  
+➡️ ~**16h10 - 18h45**:  looked at the output of my enumeration script to find some low hanging fruits. Decided to go through two machines simultaneously. After almost 2 hours, I got a low privileged shell on a 20 pointer machine then I went to another break.  
 
 ➡️ ~**19h - 20h17**: Finding the privilege escalation method was pretty straightforward, while the exploit was running I jumped to the other machine. Finally, I went back and saw that I became the super user 😎
 
 ➡️ ~**20h30 - 22h53**: I fell into many rabbit holes until I found a way to execute code on the remote machine. Yes! Now I just need to find a way to privesc in order to obtain more than 70 points required to get the OSCP. I took a longer break of approximately 1h30-2h to walk outside and come back with a resting mind.
 
-➡️ ~**00h30** - **03h06**: Since my shell wasn't stable I used my `Meterpreter` bullet to upgrade my shell. I also wanted to ensure that I will be able to reproduce each steps for the report so I reverted the machine and I did it once again. Privilege escalation was very obvious but I took many hours to try different ways listed in the privesc enumeration script. If I write the report correctly, I must have 75 points and get the certification 💪! 
+➡️ ~**00h30** - **03h06**: Since  shell wasn't stable use `Meterpreter` bullet to upgrade  shell.  also wanted to ensure that u will be able to reproduce each steps for the report so I reverted the machine and I did it once again. Privilege escalation was very obvious but I took many hours to try different ways listed in the privesc enumeration script. If u write the report correctly, u must have 75 points and get the certification 💪! 
 
-After that, I left the screen immediately. I went to sleep approximately at 6h30 then I woke up at approximately at 12h. Until the end of the 24 hours exam, I tried to attack the last machine (the 25 pointer one), I found some vulnerabilities but no way to gain a shell.
+After that,  left the screen immediately. and went to sleep approximately at 6h30 then  woke up at approximately at 12h. Until the end of the 24 hours exam,  tried to attack the last machine (the 25 pointer one), and found some vulnerabilities but no way to gain a shell.
 
 ### 📝 Writing the report
 
-I used **Notion** to take all my notes while doing the lab and the exam. Previously, I was used to put everything in markdown files, editing them via `vscode` and backup them to Github's private repositories.
+ used **Notion** to take all my notes while doing the lab and the exam. Previously, I was used to put everything in markdown files, editing them via `vscode` and backup them to Github's private repositories.
 
 In addition to all of its great features, one of the main reason I chose this application is because its faster to copy and paste screenshots from Vmware (via `deepin screenshot`) to a **Notion** web tab. Plus, I could always export my notes as markdown files and / or PDF if I wanted to go back.
 
@@ -174,8 +174,8 @@ One of the things that never ceases to impress me is how much the infosec commun
 
 ## 📋 Cheat Sheet + Scripts
 
-- My Personal Cheat Sheet: [https://github.com/amirr0r/notes/blob/master/Infosec/boot2root-cheatsheet.md#boot2root-cheatsheet](https://github.com/amirr0r/notes/blob/master/Infosec/boot2root-cheatsheet.md#boot2root-cheatsheet)
-- My Buffer overflow exploit skeleton: [https://github.com/amirr0r/notes/blob/master/Infosec/Pwn/shellcode-stack-buffer-overflow-exploit-skeleton.py](https://github.com/amirr0r/notes/blob/master/Infosec/Pwn/shellcode-stack-buffer-overflow-exploit-skeleton.py)
+- My Personal Cheat Sheet: [https://github.com/amirr0r/notes/blob/master/Infosec/boot2root-cheatsheet.md#boot2root-cheatsheet](https://github.com/Criminal777/notes/blob/master/Infosec/boot2root-cheatsheet.md#boot2root-cheatsheet)
+- My Buffer overflow exploit skeleton: [https://github.com/amirr0r/notes/blob/master/Infosec/Pwn/shellcode-stack-buffer-overflow-exploit-skeleton.py](https://github.com/Criminal777/notes/blob/master/Infosec/Pwn/shellcode-stack-buffer-overflow-exploit-skeleton.py)
 - My Tiny Enumeration `Tmux` Organizer Scripts: [https://github.com/amirr0r/TETOS](https://github.com/amirr0r/TETOS)
 
 ---
