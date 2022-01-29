@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: amirr0r                         # the main title
+title: Crimi777                         # the main title
 
 tagline:                               # it will display as the sub-title
 
@@ -17,27 +17,27 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://amirr0r.github.io'
 
-author: amirr0r	                  	# change to your full name
+author: Crimi	                  	# change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: amirr0r             	# change to your github username
+  username: Criminal777             	# change to your github username
 
 linkedin:
-  username: amir-barnat
+  username: Ali-ALYAMANI
 
 twitter:
   username: amirr0r_            # change to your twitter username
 
 social:
-  name: amirr0r	                  	# it will shows as the copyright owner in Footer
-  email: # amirr0r@pm.me              # change to your email address
+  name: Crimi	                  	# it will shows as the copyright owner in Footer
+  email: # exploit778@hotmail.com              # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/amirr0r	 # change to your github homepage
-    - https://twitter.com/amirr0r_ # change to your twitter homepage
-    - https://www.linkedin.com/in/amir-barnat/?locale=en_US
+    - https://github.com/Criminal777	 # change to your github homepage
+    - https://twitter.com/crimi777 # change to your twitter homepage
+    - https://www.linkedin.com/in/ali-a-877a2611a/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 
