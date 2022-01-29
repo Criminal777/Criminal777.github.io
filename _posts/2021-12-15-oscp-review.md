@@ -7,7 +7,7 @@ image: /assets/img/oscp/offsec.png
 pin: true
 ---
 
-About a month ago (10 November 2021), I got [my OSCP certification](https://www.credly.com/badges/c8986c46-85b3-4c32-b99a-f9039cb961a9).
+(10 November 2021),  [ OSCP certification](https://www.credly.com/badges/c8986c46-85b3-4c32-b99a-f9039cb961a9).
 
 OSCP stands for Offensive Security Certified Professional. It consists in a 24-hour proctored exam to compromise 5 machines. 
 
