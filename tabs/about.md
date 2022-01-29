@@ -1,7 +1,7 @@
 <p class="aligncenter">
     <img src="/pics/LOGO.png" alt="centered image" />
 </p>
-
+Welcome to my personal blog!
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
 Here are some of my online profiles: 
