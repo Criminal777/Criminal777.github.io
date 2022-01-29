@@ -15,7 +15,7 @@ Here are some of my online profiles:
 | Platform                                                  | Profile                                                                       |
 |:----------------------------------------------------------|------------------------------------------------------------------------------:|
 | [Hack The Box](https://www.hackthebox.eu/profile/31944)   | <script src="https://www.hackthebox.eu/badge/31944"></script>                 |
-| [Try Hack Me](https://tryhackme.com/p/amir0r)             | <script src="https://amirr0r.github.io/assets/js/thm-badge.js"></script>      |
+| [Try Hack Me](https://tryhackme.com/p/Crimi777)             | <script src="https://amirr0r.github.io/assets/js/thm-badge.js"></script>      |
 | [Root-me](https://www.root-me.org/amirr0r)                | <script src="https://amirr0r.github.io/assets/js/rootme-badge.js"></script>   |
 
 ## What will you find on this blog?
@@ -24,7 +24,7 @@ Mostly CTF walkthroughs, maybe some cheat sheets like this [one](https://github.
 
 Hope you will enjoy reading it!
 
-## Why `amirr0r` ?
+## Why `Crimi` ?
 
 My firstname is **Amir** and some of my friends call me "a mirror" because of the following joke:
 
