@@ -26,10 +26,10 @@ Hope you will enjoy reading it!
 
 ## Why `Crimi` ?
 
-My firstname is **Ali** and some of my friends call me "a Crimi" :
+My name is **Ali**  :
 
 <video controls style="width:100%">
-    <source src="https://amirr0r.github.io/assets/videos/Trevor-Noah-Amir.mp4" type="video/mp4">
+    <source src="https://amirr0r.github.io/assets/videos/Test.mp4" type="video/mp4">
 </video>
 
 <script>
